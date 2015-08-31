@@ -1,0 +1,18 @@
+h1 {
+  color: green;
+}
+section.sound {
+  width: 600px;
+  margin: 200px auto;
+  outline: 1px solid red;
+  font-size: 0;
+}
+section.sound section.sound-content {
+  width: 300px;
+  display: inline-block;
+  font-size: 18px;
+}
+section.sound section.sound-content a img {
+  border-radius: 100%;
+}
+/*# sourceMappingURL=bubble.css.map */
